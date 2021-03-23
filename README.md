@@ -30,4 +30,3 @@ When developing the module, experience and requirements for placing an ordering 
 - [author's profile on github] (https://github.com/matroskin92)
 - [resource on the forum] (https://forum.opencart.name/resources/Space- reforming-39/)
 - [Expansion Support theme] (https://forum.opencart.name/threads/Realous- Application-356/)
-- 
