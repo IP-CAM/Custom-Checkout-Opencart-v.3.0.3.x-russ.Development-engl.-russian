@@ -1,32 +1,33 @@
 # Custom Checkout
-Упрощенное оформления заказа.
+Simplified order design.
 
-## Описание
-Простое решение для реального упрощения оформления заказа, с настройкой которого разберется любой чайник. Модуль разделен на блоки, содержание (поля, методы) которых можно настроить индивидуально (например, для каждой группы доставки указать свои поля, а для самовывоза и вовсе их отключить).
+## Description
+A simple solution for real simplification of the ordering, with the setting of which any kettle will figure out. The module is divided into blocks, the content (fields, methods) of which can be configured individually (for example, for each delivery group, specify your fields, and for self-level and completely disable them).
 
-При разработке модуля был использован опыт и требования к оформлению заказа интернет-магазинов с высокой конверсией продаж.
+When developing the module, experience and requirements for placing an ordering of online stores with high sales conversion was used.
 
-## Установка
-* Установите модуль через стандартный установщик
-* Перейдите к настройкам модуля "Оформление заказа Custom"
-* Осуществите первичную настройку модуля
-* Обновите кэш модификаторов (Встроенный модификатор осуществляет переадресацию со стандартных страниц корзины и оформления заказа на настраиваемую.)
+## Installation
+* Install the module through the standard installer
+* Navigate to the settings of the Custom Order Module
+* Perform the primary setting of the module
+* Update the modifier cache (the built-in modifier is redirected from the standard pages of the basket and ordering the order to customizable.)
 
-## Что внутри
-* Модуль имеет 8 основных блоков на одной странице
-* Оформить как - (с регистрацией, без регистрации и авторизация)
-* Корзина (с набором колонок, необходимых для отображения на странице)
-* Личные данные (настройка полей для каждой группы пользователей)
-* Доставка (поля, с отметкой для каких методов осуществлять отображение)
-* Оплата (методы и группы пользователей для отображения)
-* Поле комментария
-* Модули (таких как подарочные сертификаты, купоны)
-* Итоговая таблица
+## What is inside
+* The module has 8 basic blocks on one page
+* Proceed as - (with registration, without registration and authorization)
+* Basket (with a set of speakers required to display on the page)
+* Personal data (setting up the fields for each group of users)
+* Delivery (fields, with a mark for which methods to make a display)
+* Payment (methods and user groups for display)
+* Comment field
+* Modules (such as gift certificates, coupons)
+* Final table
 
-### Совместимость
-- OpenCart 3.0.3.x
+### compatibility
+- OpenCart 3.0.3.x.
 
-## Ссылки
-- [Профиль автора на github](https://github.com/matroskin92)
-- [Ресурс на форуме](https://forum.opencart.name/resources/Простое-оформление-заказа.109/)
-- [Тема поддержки расширения](https://forum.opencart.name/threads/Простое-оформление-заказа.156/)
+## Links
+- [author's profile on github] (https://github.com/matroskin92)
+- [resource on the forum] (https://forum.opencart.name/resources/Space- reforming-39/)
+- [Expansion Support theme] (https://forum.opencart.name/threads/Realous- Application-356/)
+- 
